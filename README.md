@@ -1,25 +1,22 @@
 # 🍔 Sales Data Analysis & Revenue Forecasting
 
-[
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 
-](https://www.python.org/)
-[
+
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
 
-](https://streamlit.io/)
-[
+
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E.svg)
 
-](https://scikit-learn.org/)
-[
+
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-](LICENSE)
+
 
 An end-to-end data science project analyzing fast-food restaurant sales across five European cities — covering data cleaning, exploratory analysis, feature engineering, machine learning-based revenue forecasting, model explainability, and a deployable Streamlit dashboard.
 
