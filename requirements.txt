@@ -1,1 +1,1 @@
-
+Streamlit, Pandas, Numpy, Scikit-learn, Plotly, Joblib).
