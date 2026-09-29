@@ -1,6 +1,7 @@
 # 🍔 **ꜱᴀʟᴇꜱ ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ & ʀᴇᴠᴇɴᴜᴇ ꜰᴏʀᴇᴄᴀꜱᴛɪɴɢ**
 
 
+>An end-to-end data science project analyzing fast-food restaurant sales across five European cities — covering data cleaning, exploratory analysis, feature engineering, machine learning-based revenue forecasting, model explainability, and a deployable Streamlit dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 
@@ -18,7 +19,7 @@
 
 
 
-An end-to-end data science project analyzing fast-food restaurant sales across five European cities — covering data cleaning, exploratory analysis, feature engineering, machine learning-based revenue forecasting, model explainability, and a deployable Streamlit dashboard.
+
 
 ---
 
