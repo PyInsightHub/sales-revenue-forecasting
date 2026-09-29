@@ -1,4 +1,5 @@
-# 🍔 **ꜱᴀʟᴇꜱ ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ & ʀᴇᴠᴇɴᴜᴇ ꜰᴏʀᴇᴄᴀꜱᴛɪɴɢ**
+![image alt](https://github.com/PyInsightHub/sales-revenue-forecasting/blob/f0260c56a9e3902162b22c44aa774b4a4f9d32c7/PNG/sales_forecasting_github_post_3240px.png)
+
 
 
 >An end-to-end data science project analyzing fast-food restaurant sales across five European cities — covering data cleaning, exploratory analysis, feature engineering, machine learning-based revenue forecasting, model explainability, and a deployable Streamlit dashboard.
